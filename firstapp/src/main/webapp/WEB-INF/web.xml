@@ -11,7 +11,7 @@
 		<jsp-property-group>
 			<url-pattern>*.jsp</url-pattern>
 			<page-encoding>UTF-8</page-encoding>
-			<include-prelude>/WEB-INF/include.jsp</include-prelude>
+			<include-prelude>/WEB-INF/common/include.jsp</include-prelude>
 		</jsp-property-group>
 	</jsp-config>
 	
